@@ -5,11 +5,12 @@ Esse projeto foi iniciado com yarn Create React App
 
 ## Sobre o Projeto
 
-Esse projeto foi feito acompanhando um curso da Alura, aonde o foco era a parte de teste da aplicação, aonde aprendi sobre o jest e sobre os teste do React. 
+Esse projeto foi feito acompanhando um curso da Alura, aonde o foco era a parte de teste da aplicação, aonde aprendi sobre o jest e sobre os teste do React.
+Para Rodar os testes é so digitar yarn teste no console
 
 ## Para Acessar o Projeto
 
-Você pode acessar esse projeto fazendo o downloading dele ou clonando o repositório.
+Você pode acessar esse projeto clicando nesse link https://sortear-amigo.netlify.app/ , fazendo o downloading dele ou clonando o repositório.
 
 
 ## Abrir e Rodar o Projeto
