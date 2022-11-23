@@ -1,4 +1,3 @@
-import { StyledButton } from "components/Button/styled";
 import { useRef, useState } from "react";
 
 import { useAdicionarParticipante } from "state/hook/useAdicionarParticipante";
