@@ -1,7 +1,6 @@
 ## Sorteador de Amigo Secreto
 
-Esse projeto foi criado para você poder sortear um amigo secreto!!
-Esse projeto foi iniciado com yarn Create React App  
+Este projeto é um gerador de sorteio de amigo secreto. Para iniciar, você precisará ter no mínimo três nomes. Assim que tiver os nomes necessários, basta clicar em 'começar a brincadeira' e a brincadeira do sorteio será realizado!
 
 ## Sobre o Projeto
 
